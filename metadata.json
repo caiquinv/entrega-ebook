@@ -1,0 +1,6 @@
+{
+  "name": "Bien dans l'Assiette - Entrega",
+  "description": "Página de entrega e acompanhamento do guia Bien dans l'Assiette com aviso de envio em até 48h e expectativa das 250 receitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
